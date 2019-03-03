@@ -88,11 +88,11 @@ defaults:
 # Site Author
 author:
   name: Wijnand Baretta
-  picture:
+  picture: snapshot.png
   email: wijnandb@retta.nl
   twitter: wijnandb
   links:
-    - title:
+    - title: 
       url:
       icon:
 
