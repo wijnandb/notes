@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# theme: jekyll-theme-so-simple
-#remote_theme: mmistakes/so-simple-theme
-locale: en-US
+# theme: hpstr-jekyll-theme
+# remote_theme: mmistakes/hpstr-jekyll-theme
+
 
 
 title:            Notes on programming and other aspects of life
