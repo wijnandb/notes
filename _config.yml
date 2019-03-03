@@ -19,7 +19,7 @@ locale: en-US
 title: "Thoughts and notes"
 description: "About programming and other aspects of life"
 baseurl:  # the subpath of your site, e.g. "/blog"
-url: http://brtt.nl/notes/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: http://brtt.nl/notes # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: false # reading time estimates, e.g. true
