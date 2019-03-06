@@ -28,7 +28,7 @@ words_per_minute: 200
 url: https://brtt.nl/notes
 
 # tags to be used for so simple theme
-tags=[python]
+
 
 # Owner/author information
 owner:
