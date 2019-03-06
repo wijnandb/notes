@@ -27,6 +27,9 @@ words_per_minute: 200
 # When testing locally leave blank or use http://localhost:4000
 url: https://brtt.nl/notes
 
+# tags to be used for so simple theme
+tags=[python]
+
 # Owner/author information
 owner:
   name:           wijnandb
